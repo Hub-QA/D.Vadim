@@ -28,4 +28,14 @@
 - [*__Bug-Reports__*](https://vadimdmitriev88.atlassian.net/jira/software/c/projects/MT/issues)
 - [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Coursework-2~969ac9bd-6343-4176-9cf8-043b022e9f9b/folder/20998045-e7ccc03f-0480-48b1-99c7-2a0972305fe6)
 
-Follow Me
+### *__Follow Me__*
+- [*__Read my résumé__*](https://drive.google.com/file/d/1rZtI48jmuTv_2USQ6CYsmIIERJZgvWjf/view?usp=sharing)
+- [*__Trained at Skyeng/Skypro (the largest online university)__*](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
+
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vadim-dmitriev-77822425a/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Vadim_Volgograd)
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/_d.v.v._vlg_?igshid=YmMyMTA2M2Y=)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/dvvvlg)
+[![Tenchat](https://img.shields.io/badge/-Tenchat-090909?style=for-the-badge&logo=&logoColor=4F7DB3)](https://tenchat.ru/0943550?utm_source=7eb0e546-799a-496b-96d9-8680e68ccfe9)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimD-ev&icons=true&theme=algolia)

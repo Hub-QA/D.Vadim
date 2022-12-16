@@ -18,6 +18,14 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
-Testing Documentation
+### *__Testing Documentation__*
+- [*__Coursework 1,2__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/APV/pages/3571996/1+2)
+- [*__Coursework Mobile-tesing__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/pages/8585224/Mobile-tesing)
+- [*__Diploma work__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/blog/2022/09/08/15958017)
+- [*__Diploma Test Report__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/pages/18448387)
+- [*__Checklists__*](https://chlist.sitechco.ru/project/30222/checklist/1280994/details)
+- [*__Test-Suites and Test-Cases__*](https://app.qase.io/project/SKYENG?view=1)
+- [*__Bug-Reports__*](https://vadimdmitriev88.atlassian.net/jira/software/c/projects/MT/issues)
+- [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Coursework-2~969ac9bd-6343-4176-9cf8-043b022e9f9b/folder/20998045-e7ccc03f-0480-48b1-99c7-2a0972305fe6)
 
 Follow Me

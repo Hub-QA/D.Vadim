@@ -6,6 +6,7 @@
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/qase.io-090909?style=for-the-badge&logo=qase&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=atlassian&logoColor=0a15db)
 ![Header](https://img.shields.io/badge/sitechco.ru-090909?style=for-the-badge&logo=sitechco.ru&logoColor=8cc4d7)

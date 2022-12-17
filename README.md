@@ -30,7 +30,7 @@
 - [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Coursework-2~969ac9bd-6343-4176-9cf8-043b022e9f9b/folder/20998045-e7ccc03f-0480-48b1-99c7-2a0972305fe6)
 
 ### *__Follow Me__*
-- [*__Read my résumé__*](https://drive.google.com/file/d/1rZtI48jmuTv_2USQ6CYsmIIERJZgvWjf/view?usp=sharing)
+- [*__Read my résumé__*](https://drive.google.com/file/d/1pomKbQ1kmJxnQZqVTwuNxFVlGPB9zyyO/view?usp=share_link)
 - [*__Trained at Skyeng/Skypro (the largest online university)__*](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vadim-dmitriev-77822425a/)

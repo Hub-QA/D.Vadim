@@ -27,7 +27,7 @@
 - [*__Checklists__*](https://chlist.sitechco.ru/project/30222/checklist/1280994/details)
 - [*__Test-Suites and Test-Cases__*](https://app.qase.io/project/SKYENG?view=1)
 - [*__Bug-Reports__*](https://vadimdmitriev88.atlassian.net/jira/software/c/projects/MT/issues)
-- [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Coursework-2~969ac9bd-6343-4176-9cf8-043b022e9f9b/folder/20998045-e7ccc03f-0480-48b1-99c7-2a0972305fe6)
+- [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Skypro~2b64a5aa-109c-441e-96fe-99ee1698715a/collection/20998045-28bff320-fbf4-4b43-a624-8cdc1aa99020?ctx=documentation)
 
 ### *__Follow Me__*
 - [*__Read my résumé__*](https://drive.google.com/file/d/1pomKbQ1kmJxnQZqVTwuNxFVlGPB9zyyO/view?usp=share_link)

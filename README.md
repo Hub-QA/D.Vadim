@@ -22,7 +22,7 @@
 ### *__Testing Documentation__*
 - [*__Coursework 1,2__*](https://docs.google.com/document/d/1TBPgF4TAs1tq5C2Q1HPrdsxGzMqe7YqjPg4yJ9OeZiY/edit?usp=sharing)
 - [*__Coursework Mobile-tesing__*](https://docs.google.com/document/d/1RJNF-xQ2PS3a7WxIva99f95uvIc2G7x88Ai2y8XlpGE/edit?usp=sharing)
-- [*__Diploma work__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/blog/2022/09/08/15958017)
+- [*__Diploma work__*](https://docs.google.com/document/d/1KnMFfuPyE1DssiOghUIDLP3gHXVCEM9j8PzF8WBSqro/edit?usp=sharing)
 - [*__Diploma Test Report__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/pages/18448387)
 - [*__Checklists__*](https://chlist.sitechco.ru/project/30222/checklist/1280994/details)
 - [*__Test-Suites and Test-Cases__*](https://app.qase.io/project/SKYENG?view=1)

@@ -20,7 +20,7 @@
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
 ### *__Testing Documentation__*
-- [*__Coursework 1,2__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/APV/pages/3571996/1+2)
+- [*__Coursework 1,2__*](https://docs.google.com/document/d/1TBPgF4TAs1tq5C2Q1HPrdsxGzMqe7YqjPg4yJ9OeZiY/edit?usp=sharing)
 - [*__Coursework Mobile-tesing__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/pages/8585224/Mobile-tesing)
 - [*__Diploma work__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/blog/2022/09/08/15958017)
 - [*__Diploma Test Report__*](https://my-atlassian-site-356832.atlassian.net/wiki/spaces/~6207f234eaf9e200707655b6/pages/18448387)

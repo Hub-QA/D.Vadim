@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=40&center=true&vCenter=true&multiline=true&width=1000&height=245&lines=Hello!+%F0%9F%91%8B+World,+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%F0%9F%98%89)](https://googledino.com/)
 
-## *__QA Engineer/Tester (Manual, REST API, DevTools, Postman)__*
+## *__Tester (Manual, REST API, DevTools, Postman)__*
 
 ### *__Tools__*
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -23,19 +23,12 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
-### *__Testing Documentation__*
-- [*__Coursework 1,2__*](https://docs.google.com/document/d/1TBPgF4TAs1tq5C2Q1HPrdsxGzMqe7YqjPg4yJ9OeZiY/edit?usp=sharing)
-- [*__Coursework Mobile-tesing__*](https://docs.google.com/document/d/1RJNF-xQ2PS3a7WxIva99f95uvIc2G7x88Ai2y8XlpGE/edit?usp=sharing)
-- [*__Diploma work__*](https://docs.google.com/document/d/1KnMFfuPyE1DssiOghUIDLP3gHXVCEM9j8PzF8WBSqro/edit?usp=sharing)
-- [*__Diploma Test Report__*](https://docs.google.com/document/d/1AutwZsNru8bOCpNBk2AOLuzBED8Hi1LRbURnVG_MbYA/edit?usp=sharing)
-- [*__Checklists__*](https://chlist.sitechco.ru/project/30222/checklist/1280994/details)
-- [*__Test-Suites and Test-Cases__*](https://app.qase.io/project/SKYENG?view=1)
-- [*__Bug-Reports__*](https://vadimdmitriev88.atlassian.net/jira/software/c/projects/MT/issues)
-- [*__Postman Collections__*](https://interstellar-escape-560347.postman.co/workspace/Skypro~2b64a5aa-109c-441e-96fe-99ee1698715a/collection/20998045-28bff320-fbf4-4b43-a624-8cdc1aa99020)
-
+### *__My certificates: __*
+- [*__Trained at Skyeng/Skypro (the largest online university)__*](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
+- [*__Postman__*](https://docs.google.com/document/d/13i_ygSbnAAdnxUMP9g938V5qc_Y_BM9L4YJNiFqwvpM/edit?usp=sharing)
+- 
 ### *__Follow Me__*
 - [*__Read my résumé__*](https://drive.google.com/file/d/1pomKbQ1kmJxnQZqVTwuNxFVlGPB9zyyO/view?usp=share_link)
-- [*__Trained at Skyeng/Skypro (the largest online university)__*](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vadim-dmitriev-77822425a/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Vadim_Volgograd)

@@ -1,4 +1,8 @@
-[![Header](https://github.com/VadimD-ev/VadimD-ev/blob/main/Picture/Kosmos.jpg)](https://isstracker.pl/en?utm_source=partner&utm_medium=widget&utm_term=issstormwayru)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=40&center=true&vCenter=true&multiline=true&width=1000&height=245&lines=Hello!+%F0%9F%91%8B+World,+;"I%60m+a"+QA+engineer+from+Volgograd%2CRossia;Welcome+to+my+GitHub+%F0%9F%98%89)](https://git.io/typing-svg)
 
 ## *__QA Engineer/Tester (Manual, REST API, DevTools, Postman)__*
 

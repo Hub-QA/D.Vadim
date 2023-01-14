@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+World,+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ### __*About me:*__
+===
 + __*Высокий уровень самодисциплины и планирования своего рабочего дня;*__
 + __*Хороший коммуникатор: легко нахожу общий язык с коллегами, умею слушать и слышать
 собеседника;*__

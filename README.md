@@ -21,7 +21,7 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
-### __*My certificates:*__
+### __*Certificates:*__
 - [__*Trained at Skyeng/Skypro (the largest online university)*__](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [__*Postman*__](https://docs.google.com/document/d/13i_ygSbnAAdnxUMP9g938V5qc_Y_BM9L4YJNiFqwvpM/edit?usp=sharing)
 

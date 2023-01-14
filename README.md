@@ -4,7 +4,21 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+World,+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
-### __*Tools:*__
+
+>### __*About me:*__
++ __*Высокий уровень самодисциплины и планирования своего рабочего дня;*__
++ __*Хороший коммуникатор: легко нахожу общий язык с коллегами, умею слушать и слышать
+собеседника;*__
++ __*Быстро обучаем: стремительно впитываю новую информацию и затем активно использую
+её в работе;*__
++ __*Имею аналитический склад ума, люблю разбираться в сути задачи;*__
++ __*Внимателен к деталям;*__
++ __*Всегда стараюсь самостоятельно разобраться в возникающих вопросах;*__
++ __*Способен эффективно работать, как в команде, так и самостоятельно;*__
++ __*С готовностью делюсь опытом и оказываю поддержку коллегам;*__
++ __*Увлекаюсь спортом: Run &#127939;*__
+
+>### __*Tools:*__
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -20,16 +34,20 @@
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-### __*Certificates:*__
+
+>### __*Certificates:*__
 - [__*Trained at Skyeng/Skypro (the largest online university)*__](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [__*Postman*__](https://docs.google.com/document/d/13i_ygSbnAAdnxUMP9g938V5qc_Y_BM9L4YJNiFqwvpM/edit?usp=sharing)
-### __*Follow me:*__
+
+>### __*Follow me:*__
 - [__*Read my résumé*__](https://drive.google.com/file/d/1pomKbQ1kmJxnQZqVTwuNxFVlGPB9zyyO/view?usp=share_link)
+
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Vadim_Volgograd)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vadim-dmitriev-77822425a/)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/_d.v.v._vlg_?igshid=YmMyMTA2M2Y=)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/dvvvlg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimD-ev&icons=true&theme=algolia)
 <!--end-->

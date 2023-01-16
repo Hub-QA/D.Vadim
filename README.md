@@ -6,17 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+World,+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ### __*About me:*__
-+ __*Высокий уровень самодисциплины и планирования своего рабочего дня;*__
-+ __*Хороший коммуникатор: легко нахожу общий язык с коллегами, умею слушать и слышать
-собеседника;*__
-+ __*Быстро обучаем: стремительно впитываю новую информацию и затем активно использую
-её в работе;*__
-+ __*Имею аналитический склад ума, люблю разбираться в сути задачи;*__
-+ __*Внимателен к деталям;*__
-+ __*Всегда стараюсь самостоятельно разобраться в возникающих вопросах;*__
-+ __*Способен эффективно работать, как в команде, так и самостоятельно;*__
-+ __*С готовностью делюсь опытом и оказываю поддержку коллегам;*__
-+ __*Увлекаюсь спортом: Run &#127939;*__
++ __*High level of self-discipline and planning my working day;*__.
++ __*Good communicator: easily find common language with colleagues, I can listen and hear my interlocutor;*__.
++ __*Fast learner: I quickly assimilate new information and then actively use it in my work
++ __*I have an analytical mind, I like to go to the heart of a task;*__
++ __* I pay attention to details
++ __*I always try to find my own solutions to the issues that arise;*__
++ __*I am able to work effectively both in a team and independently;*__
++ __*I willingly share my experience and provide support to my colleagues;*__
++ __*I am fond of sports: Running&#127939;*__.
 
 ### __*Tools:*__
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

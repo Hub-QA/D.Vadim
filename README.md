@@ -14,7 +14,7 @@
 + __*I always try to find my own solutions to the issues that arise;*__
 + __*I am able to work effectively both in a team and independently;*__
 + __*I willingly share my experience and provide support to my colleagues;*__
-+ __*I am fond of sports: Running &#127939*__
++ __*I am fond of sports: Running &#127939;*__
 
 ### __*Tools:*__
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My friend+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ### __*About me:*__
 + __*High level of self-discipline and planning my working day;*__

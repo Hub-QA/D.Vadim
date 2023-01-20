@@ -44,8 +44,6 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Vadim_Volgograd)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vadim-dmitriev-77822425a/)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/_d.v.v._vlg_?igshid=YmMyMTA2M2Y=)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/dvvvlg)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimD-ev&icons=true&theme=algolia)
 <!--end-->

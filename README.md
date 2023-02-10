@@ -33,7 +33,7 @@
 
 ### __*Certificates:*__
 - [__*Trained at Skyeng/Skypro (the largest online university)*__](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
-- [__*Software Testing: Postman*__](https://docs.google.com/document/d/13i_ygSbnAAdnxUMP9g938V5qc_Y_BM9L4YJNiFqwvpM/edit?usp=sharing)
+- [__*Software Testing: Postman*__](https://stepik.org/cert/1893919)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimD-ev&icons=true&theme=algolia)
 <!--end-->

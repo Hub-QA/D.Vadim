@@ -6,18 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+QA+engineer+from+Volgograd%2CRassia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ### __*About me:*__
-+ __*I have been testing websites and mobile applications for about a year;*__
-+ __*I like this area I can influence the quality of the product and improve the lives of people who use it;*__
-+ __*I try to do work of high quality, I am not afraid of new and complex tasks;*__
-+ __*Huge desire to develop in testing;*__
-+ __*High level of self-discipline and planning my working day;*__
-+ __*Good communicator: easily find common language with colleagues, I can listen and hear my interlocutor;*__
-+ __*I quickly assimilate new information and then actively use it in my work;*__
-+ __*I have an analytical mindset;*__
-+ __*I pay attention to details;*__
-+ __*I always try to find my own solutions to the issues that arise;*__
-+ __*I am able to work effectively both in a team and independently;*__
-+ __*I willingly share my experience and provide support to my colleagues;*__
++ __*I I have been testing websites and mobile applications for about a year, I like this area, I can influence the quality of the product and improve the lives of people who use it. I try to do quality work, I am not afraid of new and difficult tasks;*__
 + __*I am fond of sports: Running &#127939;*__
 
 ### __*Tools:*__

@@ -81,7 +81,7 @@ Native mobile application in (App Store, Google Play) Skladno
 
 ---
 ##### <span id="Learning Now"></span>_LEARNING NOW:_
-- Python (basics) + Appium Ð´Ð»Ñ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ ÑÐµÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð¼Ð¾Ð±Ð¸Ð»ÑÐ½ÑÑ Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹
+- Python (basics) + Appium для автоматизации тестирования мобильных приложений
 - PyTest framework
 - CI/CD pipeline basics
 

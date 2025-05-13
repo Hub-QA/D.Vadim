@@ -92,7 +92,7 @@ Native mobile application in (App Store, Google Play) Skladno
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 
 ---
-##### <span id="Connect with Me"></span>_Connect with Me:_
+##### <span id="Connect with Me"></span>_Contact Me:_
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
 [![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 

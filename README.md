@@ -1,4 +1,4 @@
-<!--start-->
+<!--Start-->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -51,13 +51,14 @@ Native mobile application in (App Store, Google Play) Skladno
 ![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=atlassian&logoColor=4285F4) ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=4285F4) ![Notion](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=notion&logoColor=white) ![Qase.io](https://img.shields.io/badge/Qaseio-090909?style=for-the-badge&logo=qase&logoColor=4285F4) ![Google Docs](https://img.shields.io/badge/Google_Docs-090909?style=for-the-badge&logo=googleDocs&logoColor=4285F4) ![Sitechco](https://img.shields.io/badge/sitechcoru-090909?style=for-the-badge&logo=webflow&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=FFA500) 
 
 ##### <span id="Communication"></span>_Communication_
-![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=4285F4) ![Google Meet](https://img.shields.io/badge/Google_Meet-090909?style=for-the-badge&logo=googlemeet&logoColor=4285F4) ![Loom](https://img.shields.io/badge/Loom-2C2C2C?style=for-the-badge&logo=loom&logoColor=F24E1E) ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Mermaid](https://img.shields.io/badge/Mermaid-%23161a1d.svg?style=for-the-badge&logo=Mermaid&logoColor=%2373B8A4 )
+![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=4285F4) ![Google Meet](https://img.shields.io/badge/Google_Meet-090909?style=for-the-badge&logo=googlemeet&logoColor=4285F4) ![Loom](https://img.shields.io/badge/Loom-2C2C2C?style=for-the-badge&logo=loom&logoColor=F24E1E) ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Mermaid](https://img.shields.io/badge/Mermaid-%23161a1d.svg?style=for-the-badge&logo=Mermaid&logoColor=4285F4)
 
 ##### <span id="Testing / Debugging"></span>_Testing / Debugging_
-![Chrome DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&label) ![BrowserStack](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=white)  ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Chrome DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![BrowserStack](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=white)  ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d) ![Chrome DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![BrowserStack](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=white)  ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d) ![Chrome DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2) ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![BrowserStack](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=white) ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=proxy&logoColor=white)
+
 
 ##### <span id="Code"></span>_Code_
-![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=4285F4) ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FFD43B)
+![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=4285F4) ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=F05032 ) ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ##### <span id="SQL Proficiency"></span>_SQL Proficiency_
@@ -81,9 +82,8 @@ Native mobile application in (App Store, Google Play) Skladno
 
 ---
 ##### <span id="Learning Now"></span>_LEARNING NOW:_
-- Python (basics) + Appium для автоматизации тестирования мобильных приложений
-- PyTest framework
-- CI/CD pipeline basics
+- Learning the basics of Python
+- Mastering the Appium tool for automating mobile application testing
 
 ---
 ##### <span id="Certificates"></span>_Certificates:_
@@ -92,6 +92,11 @@ Native mobile application in (App Store, Google Play) Skladno
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimD-ev&icons=true&theme=algolia)
+##### <span id="Connect with Me"></span>_Connect with Me:_
+[![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
+[![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 
-<!--end-->
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim&icons=true&theme=algolia)
+
+<!--End-->

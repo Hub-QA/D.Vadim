@@ -28,6 +28,7 @@
 
 
 - Практический опыт:
+- <img src="https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https
 - ![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Integration](https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)

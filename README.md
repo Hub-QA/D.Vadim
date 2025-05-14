@@ -29,6 +29,13 @@
 
 - Практический опыт:
 - <img src="https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https
+
+<img src="https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/test_design_techniques-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/testing_documentation-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/regression-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/smoke-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/re-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/non_functional-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/ad_hoc-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/UI/UX-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/UAT-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/testing_iOS-4682B4?style=for-the-badge&logo=apple&logoColor=white "> <img src="https://img.shields.io/badge/testing_Android-4682B4?style=for-the-badge&logo=android&logoColor=white ">
+
+
+
+
+- 
 - ![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Integration](https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)

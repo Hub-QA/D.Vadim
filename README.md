@@ -7,47 +7,63 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+Quality+Assurance+Engineer+from+Volgograd%2CRussia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ---
-#### <span id="PROFESSIONAL SKILLS"></span>_PROFESSIONAL SKILLS:_
-- understanding of Agile methodologies - project work was carried out in two-week sprints;  
-- understanding of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC);  
-- strong skills in both teamwork and independent work;  
-- extensive knowledge of testing theory, including various types of testing, test development techniques, and testing methodologies;  
-- ability to create test documentation including test plans, test reports, RC reports, checklists, bug reports, for verifying a specific flow, user story, using tools such as Atlassian Confluence, Notion, Miro, Google Docs, Google Sheets, Sitechco.ru (Checklists/Cheat-lists), Qase.io (Test Cases), Jira (Bug Reports), and Microsoft Office (Excel, DOCX);  
-- practical experience in manual testing, smoke testing, integration testing, black box testing, functional testing, non-functional testing, ad hoc testing, UI/UX testing, re-testing, regression testing, UAT testing;  
-- understanding of TCP/IP protocol stack principles, including OSI model layers;  
-- understanding of client-server architecture and HTTP/S requests/responses;  
-- experience with Chrome DevTools (Network, Console);  
-- experience with Figma;  
-- experience working with RESTful API (Swagger, Postman);  
-- experience with Android Studio (ADB, Logcat), iOS (Console Logs), and using emulators/simulators;  
-- experience with BrowserStack;  
-- experience with Charles Proxy (Breakpoint, Rewrite, Map Remote);  
-- experience with Network Link Conditioner;  
-- experience with Git, GitHub;  
-- knowledge of SQL and experience with DBMS (pgAdmin);  
-- basic knowledge of programming language (Python);  
-- experience with Visual Studio Code;  
-- experience with Mermaid.
+#### <span id="Обо мне"></span>_Обо мне:_
+- Более 2,5 лет опыта в ручном тестировании веб - и мобильных приложений. 
+- Участие в полном цикле QA, от анализа требований и составления тестовой документации до выполнения тестов, UAT и выпуска релизов. 
+- Имею понимание SDLC и STLC, участвую в Agile-разработке по Scrum с двухнедельными спринтами.
+- Основной фокус на обеспечение высокого качества продукта на всех этапах разработки.
 
 ---
-#### <span id="ACHIEVEMENTS"></span>_ACHIEVEMENTS:_ 
-Native mobile application in (RuStore, AppGallery) Alfa-Insurance  
-- implemented a systematic approach to testing, reducing the number of incidents in production;  
-- developed and implemented test-plans, test-report, rc-report, check-lists, bug-reports, summary-table (Release Candidate), increasing transparency of testing processes and simplifying communication between QA, developers and analysts;  
-- under conditions of limited personnel resources (being the only QA), ensured stable product quality, took full responsibility, organized and carried out all testing processes using a systematic approach;  
-- participated in refactoring and transition to BD-UI, identified key performance and usability issues during testing;  
-- identified and documented more than 800+ defects in the application, successfully coordinating their correction (bug-fix), which led to significant improvements in product reliability and stability.  
-
-Native mobile application in (App Store, Google Play) Skladno  
-- acted as a mentor for a tester, helping improve documentation quality and optimize testing processes;  
-- developed and implemented test-plans, test-report, rc-report, check-lists, bug-reports, summary table (Release Candidate), increasing transparency of testing processes and simplifying communication between QA, developers and analysts;  
-- joined the project for active testing, focusing on identifying performance and usability issues;  
-- through individual and team work, identified and helped fix serious bugs, significantly improving the quality of the mobile application within tight deadlines.
+#### <span id="ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ:"></span>_ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ:_
+- Cильные навыки, как командного сотрудничества, так и индивидуальной работы.
+- Обширные знания теории тестирования, включая различные виды тестирования, методы разработки тестов и методологии тестирования.
+- Умение создавать тестовую документацию для проверки конкретного flow, user story:
+[📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) 
+[📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing)  
+[✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing)  
+[📋 Check-list](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true)  
+[🐞 Bug-Report](https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing) 
+[📋 Summary-Table (Release Candidate)](https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing)
+- Практический опыт:
+![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Integration](https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Black-box](https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Functional](https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Non-functional](https://img.shields.io/badge/non_functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Ad hoс](https://img.shields.io/badge/ad_hoс-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI/UX-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Re-testing](https://img.shields.io/badge/Re-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Regression](https://img.shields.io/badge/Regression-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![UAT](https://img.shields.io/badge/UAT-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
+- Понимание принципов работы стека протоколов TCP/IP, включая уровни модели OSI.
+- Понимание клиент-серверной архитектуры и HTTP/S запросы/ответы.
 
 ---
-#### <span id="Tools"></span>_Tools:_
+#### <span id="ДОСТИЖЕНИЯ"></span>_ДОСТИЖЕНИЯ:_ 
+**Project:** "Альфа-Страхование" (Нативное мобильное приложение)
+- Разработал и внедрил полный цикл тестовой документации: Test-Plans, Test-Reports, RC Reports, Check-lists, Bug-Reports и Summary-Tables, это позволило стандартизировать QA-процессы, повысить прозрачность и улучшить коммуникацию между QA, разработкой и аналитикой.
+- Применил системный подход к тестированию, что привело к снижению количества инцидентов в Production на 70%, обеспечивая высокую надежность и качество продукта.
+- Участвовал в рефакторинге и внедрении новой дизайн-системы BD-UI.
+- Обеспечивал высокий уровень качества продукта благодаря регулярному и глубокому тестированию, а также точному документированию найденных дефектов.
+- Работал единственным QA-инженером на проекте.
+- Взял на себя полную ответственность за качество продукта, организовывал и проводил полный цикл тестирования, от планирования до релиза.
+- Благодаря тесному взаимодействию с командой разработки, большинство багов было оперативно исправлено, что способствовало выпуску стабильных версий приложения.
+- Участвовал в мониторинге качества продукта после выпуска на клиентов, собирая и анализируя обратную связь от пользователей и бизнеса для дальнейшей оптимизации продукта.
+
+**Project:** "Складно" - Умные кладовки» (Нативное мобильное приложение)
+- Провёл комплексное тестирование, сосредоточившись на выявлении проблем с производительностью и удобством использования.
+- Выступал ментором для тестировщика, помогая улучшить качество документации и оптимизировать процессы тестирования;
+- В ходе индивидуальной и командной работы выявил и помог исправить серьезные ошибки, что значительно улучшило качество мобильного приложения в сжатые сроки.
+
+---
+#### <span id="ЗАДАЧИ"></span>_ЗАДАЧИ:_ 
+- Организация и проведение еженедельных ретроспективных встреч в cross-функциональной команде из 14 человек (12 разработчиков, тестировщик, продукт-менеджер, основатель компании) с целью анализа процессов, выявления проблем и внедрения улучшений.
+- Проведение регулярного анализа выявления проблем и определения путей их решения, четкого понимания работы и дедлайна выполнения по текущим задачам.
+- Планирование и контроль этапов тестирования, определение стартовых и завершающих точек цикла QA, согласование графиков с участниками проекта.
+- Подбор и применение методологий и инструментов тестирования, обеспечивающих высокое качество выпускаемого продукта.
+- Обеспечение четкого понимания функциональности и сроков реализации задач по текущему кандидату в релиз (Release Candidate) среди всех участников проекта.
+- Совместная работа с Product Manager по валидации технической документации, проверка полноты, однозначности и соответствия требованиям, обеспечение ясности для всех участников разработки.
+- Анализ макетов Figma с точки зрения дизайна, функциональности и соответствия бизнес-требованиям, формулирование обратной связи, предложения по улучшению UI/UX, добавление комментариев для команды.
+- Создание полной документации (диаграмм) по тестированию, включая test-plans, test-report, check-lists, bug-reports, rc-report, c акцентом на описание бизнес-логики и применения техник тест-дизайна.
+- Координация рабочего процесса с разработчиками, запрос стабильных сборок, для проведение тестирования.
+- Проводить мануальное комплексное тестирование smoke-testing, integration-testing, black box-testing, ad hoс-testing, functional-testing, non-functional testing, UI/UX-testing, re-testing, regression-testing, UAT-testing.
+- Участвовал в формировании критериев приемки и проверял качество перед выпуском.
+- Составлял RC-отчеты с анализом тестирования, метриками и выводами для принятия решения о публикации версии на клиентов.
+
+---
+#### <span id="Tools:"></span>_TOOLS:_
 ##### <span id="Documentation"></span>_Documentation_
-
 ![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=atlassian&logoColor=4285F4) ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=4285F4) ![Notion](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=notion&logoColor=white) ![Qase.io](https://img.shields.io/badge/Qaseio-090909?style=for-the-badge&logo=qase&logoColor=4285F4) ![Google Docs](https://img.shields.io/badge/Google_Docs-090909?style=for-the-badge&logo=googleDocs&logoColor=4285F4) ![Sitechco](https://img.shields.io/badge/sitechcoru-090909?style=for-the-badge&logo=webflow&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=FFA500) 
 
 ##### <span id="Communication"></span>_Communication_
@@ -65,34 +81,34 @@ Native mobile application in (App Store, Google Play) Skladno
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4285F4)
 
 ---
-##### <span id="Personal qualities"></span>_PERSONAL QUALITiES:_
-- I have 2.5 years of experience in testing websites and mobile applications, and I genuinely enjoy working in this field, as it allows me to contribute to product quality and improve the user experience.
-- Strive to perform my work with high quality and am not afraid to take on new and challenging tasks, considering them as points of growth.
-- Have a strong desire to further develop my skills in testing.
-- Have a high level of self-discipline and effectively plan my workday.
-- Detail-oriented and use a proactive approach both for independent and team problem solving.
-- With an analytical mindset, I enjoy getting to the core of an issue.
-- Enjoy leading and participating in the work process.
-- Good communicator and easily find common ground with colleagues. 
-- Actively listen and take into account other people's opinions.
-- Ready to share my experience and provide support to colleagues.
-- Can work effectively both in a team and independently.
-- Optimistic outlook and continuous development are my main drivers of progress.
-- Outside of work, I am fond of sports, especially running, which helps me stay energetic and focused.
+#### <span id="ЛИЧНЫЕ КАЧЕСТВА"></span>_ЛИЧНЫЕ КАЧЕСТВА:_ 
+- Мне искренне нравится работать в этой области, поскольку это позволяет мне вносить вклад в качество продукта и улучшать пользовательский опыт.
+- Cтремлюсь выполнять свою работу качественно и не боюсь браться за новые и сложные задачи, считаю это точкой роста.
+- Есть сильное желание и дальше развивать свои навыки в области тестирования.
+- Обладаю высоким уровнем самодисциплины и эффективно планирую свой рабочий день.
+- Внимателен к деталям и использую проактивный подход как для самостоятельного, так и коллективного решения проблем.
+- Обладая аналитическим складом ума, я люблю разбираться в сути проблемы.
+- Люблю руководить и участвовать в рабочем процессе.
+- Хороший коммуникатор и легко нахожу общий язык с коллегами. 
+- Активно слушаю и учитываю точки зрения других людей.
+- Готов делиться своим опытом и оказывать поддержку коллегам.
+- Могу эффективно работать как в команде, так и самостоятельно.
+- Оптимистичный настрой и постоянное развитие являются моими основными двигателями прогресса.
+- Вне работы я увлекаюсь спортом, особенно бегом что помогает мне оставаться энергичным и сосредоточенным.
 
 ---
-##### <span id="Learning Now"></span>_LEARNING NOW:_
-- Learning the basics of Python
-- Mastering the Appium tool for automating mobile application testing
+##### <span id=«Обучение»></span>_Обучение:_
+- Изучаю основы языка Python
+- Освоение инструмента Appium для автоматизации тестирования мобильных приложений
 
 ---
-##### <span id="Certificates"></span>_Certificates:_
+##### <span id="Сертификаты"></span>_Сертификаты:_
 - [Skyeng/Skypro](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [Software Testing: Postman](https://stepik.org/cert/1893919)
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 
 ---
-##### <span id="Connect with Me"></span>_Contact Me:_
+##### <span id="Обратная связь "></span>_Обратная связь :_
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
 [![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 

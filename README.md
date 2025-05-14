@@ -19,25 +19,9 @@
 - Обширные знания теории тестирования, включая различные виды тестирования, методы разработки тестов и методологии тестирования.
 - Умение создавать тестовую документацию для проверки конкретного flow, user story:
 - 📝 <a href="https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing" target="_blank">Test-Plan</a> | 📊 <a href="https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing" target="_blank">Test-Report</a> | ✅ <a href="https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing" target="_blank">RC-Report</a> | 📋 <a href="https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true" target="_blank">Check-list</a> | 🐞 <a href="https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing" target="_blank">Bug-Report</a> | 📋 <a href="https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing " target="_blank">Summary-Table (Release Candidate)</a>
-
-
-
-
-
-
-
-
 - Практический опыт:
-- <img src="https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https
-
-<img src="https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/test_design_techniques-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/testing_documentation-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/regression-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/smoke-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/re-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/non_functional-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/ad_hoc-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/UI/UX-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/UAT-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white "> <img src="https://img.shields.io/badge/testing_iOS-4682B4?style=for-the-badge&logo=apple&logoColor=white "> <img src="https://img.shields.io/badge/testing_Android-4682B4?style=for-the-badge&logo=android&logoColor=white ">
-
-
-
-
 - 
-- ![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
-- ![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
+- ![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Integration](https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Black-box](https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Functional](https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
@@ -47,6 +31,8 @@
 - ![Re-testing](https://img.shields.io/badge/Re-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![Regression](https://img.shields.io/badge/Regression-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
 - ![UAT](https://img.shields.io/badge/UAT-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white)
+
+- 
 - Понимание принципов работы стека протоколов TCP/IP, включая уровни модели OSI.
 - Понимание клиент-серверной архитектуры и HTTP/S запросы/ответы.
 

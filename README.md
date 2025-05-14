@@ -18,7 +18,7 @@
 - Cильные навыки, как командного сотрудничества, так и индивидуальной работы.
 - Обширные знания теории тестирования, включая различные виды тестирования, методы разработки тестов и методологии тестирования.
 - Умение создавать тестовую документацию для проверки конкретного flow, user story:
-  [📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) 
+![📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) 
   [📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing)  
   [✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing)  
   [📋 Check-list](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true)  

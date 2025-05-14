@@ -18,6 +18,15 @@
 - Cильные навыки, как командного сотрудничества, так и индивидуальной работы.
 - Обширные знания теории тестирования, включая различные виды тестирования, методы разработки тестов и методологии тестирования.
 - Умение создавать тестовую документацию для проверки конкретного flow, user story:
+📝 <a href="https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing " target="_blank">Test-Plan</a> | 📊 <a href="https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing " target="_blank">Test-Report</a> | ✅ <a href="https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing " target="_blank">RC-Report</a> | 📋 <a href="https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true " target="_blank">Check-list</a> | 🐞 <a href="https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing " target="_blank">Bug-Report</a> | 📋 <a href="https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing " target="_blank">Summary-Table (Release Candidate)</a>
+
+
+
+
+
+
+
+
 - [📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) 
 - [📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing)  
 - [✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing)  

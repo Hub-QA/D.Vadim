@@ -30,8 +30,7 @@
 ---
 #### <span id="Achievements"></span>_Achievements:_
 **Project:** "Alpha-Insurance" (Native Mobile Application)
-- Developed and implemented a full cycle of test documentation including Test Plans, Test Reports, RC Reports, Checklists, Bug Reports, and Summary Tables. 
-- This helped standardize QA processes, improve transparency, and enhance communication between QA, development, and analytics teams.
+- Developed and implemented a full cycle of test documentation including Test Plans, Test Reports, RC Reports, Checklists, Bug Reports, and Summary Tables, this helped standardize QA processes, improve transparency, and enhance communication between QA, development, and analytics teams.
 - Applied a systematic testing approach that reduced production incidents by 70% , ensuring high product reliability and quality.
 - Participated in the refactoring and implementation of a new design system — BD-UI.
 - Maintained a high level of product quality through regular and deep testing, as well as accurate documentation of identified defects.

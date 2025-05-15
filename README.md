@@ -28,37 +28,38 @@
 - Familiar with client-server architecture and HTTP/S request/response mechanics.
 
 ---
-#### <span id="ДОСТИЖЕНИЯ"></span>_ДОСТИЖЕНИЯ:_ 
-**Project:** "Альфа-Страхование" (Нативное мобильное приложение)
-- Разработал и внедрил полный цикл тестовой документации: Test-Plans, Test-Reports, RC Reports, Check-lists, Bug-Reports и Summary-Tables, это позволило стандартизировать QA-процессы, повысить прозрачность и улучшить коммуникацию между QA, разработкой и аналитикой.
-- Применил системный подход к тестированию, что привело к снижению количества инцидентов в Production на 70%, обеспечивая высокую надежность и качество продукта.
-- Участвовал в рефакторинге и внедрении новой дизайн-системы BD-UI.
-- Обеспечивал высокий уровень качества продукта благодаря регулярному и глубокому тестированию, а также точному документированию найденных дефектов.
-- Работал единственным QA-инженером на проекте.
-- Взял на себя полную ответственность за качество продукта, организовывал и проводил полный цикл тестирования, от планирования до релиза.
-- Благодаря тесному взаимодействию с командой разработки, большинство багов было оперативно исправлено, что способствовало выпуску стабильных версий приложения.
-- Участвовал в мониторинге качества продукта после выпуска на клиентов, собирая и анализируя обратную связь от пользователей и бизнеса для дальнейшей оптимизации продукта.
+#### <span id="Achievements"></span>Achievements:
+**Project:** "Alpha-Insurance" (Native Mobile Application)
+- Developed and implemented a full cycle of test documentation including Test Plans, Test Reports, RC Reports, Checklists, Bug Reports, and Summary Tables. 
+- This helped standardize QA processes, improve transparency, and enhance communication between QA, development, and analytics teams.
+- Applied a systematic testing approach that reduced production incidents by 70% , ensuring high product reliability and quality.
+- Participated in the refactoring and implementation of a new design system — BD-UI.
+- Maintained a high level of product quality through regular and deep testing, as well as accurate documentation of identified defects.
+- Worked as the only QA Engineer on the project.
+- Took full responsibility for product quality, organizing and conducting the entire testing lifecycle from planning to release.
+- Thanks to close collaboration with the development team, most bugs were fixed promptly, contributing to the release of stable application versions.
+- Monitored product quality post-release by collecting and analyzing user and business feedback for further product optimization.
 
-**Project:** "Складно" - Умные кладовки» (Нативное мобильное приложение)
-- Провёл комплексное тестирование, сосредоточившись на выявлении проблем с производительностью и удобством использования.
-- Выступал ментором для тестировщика, помогая улучшить качество документации и оптимизировать процессы тестирования.
-- В ходе индивидуальной и командной работы выявил и помог исправить серьезные ошибки, что значительно улучшило качество мобильного приложения в сжатые сроки.
-
----
-#### <span id="ЗАДАЧИ"></span>_ЗАДАЧИ:_ 
-- Организация и проведение еженедельных ретроспективных встреч в cross-функциональной команде из 15 человек (12 разработчиков, тестировщик, продукт-менеджер, основатель компании) с целью анализа процессов, выявления проблем и внедрения улучшений, четкого понимания работы по дедлайнам, выполнения текущих задача.
-- Планирование и контроль этапов тестирования, определение стартовых и завершающих точек цикла QA, согласование графиков с участниками проекта.
-- Подбор и применение методологий и инструментов тестирования, обеспечивающих высокое качество выпускаемого продукта.
-- Обеспечение четкого понимания функциональности и сроков реализации задач по текущему кандидату в релиз (Release Candidate) среди всех участников проекта.
-- Совместная работа с Product Manager по валидации технической документации, проверка полноты, однозначности и соответствия требованиям, обеспечение ясности для всех участников разработки.
-- Анализ макетов Figma с точки зрения дизайна, функциональности и соответствия бизнес-требованиям, формулирование обратной связи, предложения по улучшению UI/UX, добавление комментариев для команды.
-- Создание полной документации (диаграмм) по тестированию, включая test-plans, test-report, check-lists, bug-reports, rc-report, c акцентом на описание бизнес-логики и применения техник тест-дизайна.
-- Координация рабочего процесса с разработчиками, запрос стабильных сборок, для проведение тестирования.
-- Проводить мануальное комплексное тестирование smoke-testing, integration-testing, black box-testing, ad hoс-testing, functional-testing, non-functional testing, UI/UX-testing, re-testing, regression-testing, UAT-testing.
-- Участвовал в формировании критериев приемки, составлял RC-отчеты с анализом тестирования, метриками и выводами для принятия решения о публикации версии на клиентов.
+**Project:** "Skladno" - Smart Storage Units (Native Mobile Application)
+- Conducted comprehensive testing focusing on performance and usability issues.
+- Acted as a mentor to a junior QA specialist, helping improve documentation quality and optimize testing processes.
+- Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.
 
 ---
-#### <span id="Tools:"></span>_TOOLS:_
+#### <span id="Responsibilities"></span>Responsibilities:
+- Organized and conducted weekly retrospective meetings within a 15-person cross-functional team (12 developers, QA engineer, product manager, company founder) to analyze processes, identify issues, implement improvements, ensure clarity on deadlines, and track progress of current tasks.
+- Planned and monitored testing stages, defined start and end points of the QA cycle, and coordinated schedules with project stakeholders.
+- Selected and applied appropriate testing methodologies and tools to ensure high product quality.
+- Ensured clear understanding of functionality and implementation timelines for the current release candidate (RC) across all project participants.
+- Collaborated with Product Manager to validate technical documentation, check its completeness, clarity, and alignment with requirements, ensuring transparency for all development team members.
+- Analyzed Figma mockups in terms of design, functionality, and compliance with business requirements, provided feedback, suggestions for UI/UX improvements, and added comments for the team.
+- Created comprehensive test documentation (including diagrams), such as test plans, test reports, checklists, bug reports, and RC reports, with a focus on business logic and test design techniques.
+- Coordinated workflow with developers and requested stable builds for testing.
+- Conducted comprehensive manual testing: smoke, integration, black-box, ad hoc, functional, non-functional, UI/UX, regression, re-testing, and UAT.
+- Participated in defining acceptance criteria and prepared RC reports with testing analysis, metrics, and conclusions to support the decision on version release to production.
+
+---
+#### <span id="Tools"></span>_Tools:_
 ##### <span id="Documentation"></span>_Documentation_
 ![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=atlassian&logoColor=4285F4) ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=4285F4) ![Notion](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=notion&logoColor=white) ![Qase.io](https://img.shields.io/badge/Qaseio-090909?style=for-the-badge&logo=qase&logoColor=4285F4) ![Google Docs](https://img.shields.io/badge/Google_Docs-090909?style=for-the-badge&logo=googleDocs&logoColor=4285F4) ![Sitechco](https://img.shields.io/badge/sitechcoru-090909?style=for-the-badge&logo=webflow&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=FFA500) ![Markdown](https://img.shields.io/badge/Markdown-090909?style=for-the-badge&logo=markdown&logoColor=FFA500)  
 

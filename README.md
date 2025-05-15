@@ -50,7 +50,7 @@
 - Planned and monitored testing stages, defined start and end points of the QA cycle, and coordinated schedules with project stakeholders.
 - Selected and applied appropriate testing methodologies and tools to ensure high product quality.
 - Ensured clear understanding of functionality and implementation timelines for the current release candidate (RC) across all project participants.
-- Collaborated with Product Manager to validate technical documentation, check its completeness, clarity, and alignment with requirements, ensuring transparency for all development team members.
+- Collaborated with Product Manager to validate technical documentation, check its completeness, clarity, and alignment with requirements, ensuring transparency for all, development team members.
 - Analyzed Figma mockups in terms of design, functionality, and compliance with business requirements, provided feedback, suggestions for UI/UX improvements, and added comments for the team.
 - Created comprehensive test documentation (including diagrams), such as test plans, test reports, checklists, bug reports, and RC reports, with a focus on business logic and test design techniques.
 - Coordinated workflow with developers and requested stable builds for testing.

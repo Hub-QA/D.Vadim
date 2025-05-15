@@ -77,34 +77,34 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4285F4)
 
 ---
-#### <span id="ЛИЧНЫЕ КАЧЕСТВА"></span>_ЛИЧНЫЕ КАЧЕСТВА:_ 
-- Мне искренне нравится работать в этой области, поскольку это позволяет мне вносить вклад в качество продукта и улучшать пользовательский опыт.
-- Cтремлюсь выполнять свою работу качественно и не боюсь браться за новые и сложные задачи, считаю это точкой роста.
-- Есть сильное желание и дальше развивать свои навыки в области тестирования.
-- Обладаю высоким уровнем самодисциплины и эффективно планирую свой рабочий день.
-- Внимателен к деталям и использую проактивный подход как для самостоятельного, так и коллективного решения проблем.
-- Обладая аналитическим складом ума, я люблю разбираться в сути проблемы.
-- Люблю руководить и участвовать в рабочем процессе.
-- Хороший коммуникатор и легко нахожу общий язык с коллегами. 
-- Активно слушаю и учитываю точки зрения других людей.
-- Готов делиться своим опытом и оказывать поддержку коллегам.
-- Могу эффективно работать как в команде, так и самостоятельно.
-- Оптимистичный настрой и постоянное развитие являются моими основными двигателями прогресса.
-- Вне работы я увлекаюсь спортом, особенно бегом что помогает мне оставаться энергичным и сосредоточенным.
+#### <span id="Personal Qualities"></span>PERSONAL QUALITIES:
+- I genuinely enjoy working in field QA, as it allows me to contribute to product quality and improve the user experience.
+- I strive to do my job well and am not afraid to take on new and challenging tasks, considering this a growth opportunity.
+- There is a strong desire to continue developing my skills in testing.
+- I have a high level of self-discipline and effectively plan my workday.
+- I am detail-oriented and use a proactive approach both independently and collectively to solve problems.
+- Having an analytical mindset, I love getting to the heart of the problem.
+- I love leading and participating in the workflow.
+- Good communicator and easily find common ground with colleagues.
+- Listen and take other people's opinions into account.
+- Ready to share my experience and support my colleagues.
+- Work effectively both in a team and independently.
+- Optimistic mindset and continuous development are my main drivers of progress.
+- Outside of work, I am fond of sports, especially running, which helps me stay energetic and focused.
 
 ---
-##### <span id=«Обучение»></span>_Обучение:_
-- Изучаю основы языка Python
-- Освоение инструмента Appium для автоматизации тестирования мобильных приложений
+#### <span id="Learning"></span>_Learning:_
+- Studying the basics of Python programming language.
+- Mastering the Appium tool for automation testing of mobile applications.
 
 ---
-##### <span id="Сертификаты"></span>_Сертификаты:_
+##### <span id="Certificates"></span>_Certificates:_
 - [Skyeng/Skypro](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [Software Testing: Postman](https://stepik.org/cert/1893919)
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 
 ---
-##### <span id="Обратная связь "></span>_Обратная связь :_
+##### <span id="You can contact me"></span>_You can contact me:_
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
 [![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 

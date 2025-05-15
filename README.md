@@ -39,7 +39,7 @@
 - Thanks to close collaboration with the development team, most bugs were fixed promptly, contributing to the release of stable application versions.
 - Monitored product quality post-release by collecting and analyzing user and business feedback for further product optimization.
 
-**Project:** "Skladno" - Smart Storage Units (Native Mobile Application)
+**Project:** "Skladno" - Smart storerooms (Native Mobile Application)
 - Conducted comprehensive testing focusing on performance and usability issues.
 - Acted as a mentor to a junior QA specialist, helping improve documentation quality and optimize testing processes.
 - Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.

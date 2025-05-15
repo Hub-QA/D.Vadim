@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+Quality+Assurance+Engineer+from+Volgograd%2CRussia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ---
-#### <span id="About me"></span>About me:
+#### <span id="About me"></span>_About me:_
 - More than 2.5 years of experience in manual testing of web and mobile applications.
 - Participation in the full QA cycle, from requirements analysis and creation of test documentation to test execution, UAT, and release.
 - Work was carried out with an understanding of SDLC and STLC, using Agile (Scrum) methodology with two-week sprints.
 - The main focus is on ensuring high product quality at all stages of development.
 
 ---
-#### <span id="Professional skills"></span>Professional skills:
+#### <span id="Professional skills"></span>_Professional skills:_
 - Strong skills in both team collaboration and individual work.
 - Extensive knowledge of testing theory, including various types of testing, test development methods, and testing methodologies.
 - Ability to create test documentation for verifying flow, user story:
@@ -28,7 +28,7 @@
 - Familiar with client-server architecture and HTTP/S request/response mechanics.
 
 ---
-#### <span id="Achievements"></span>Achievements:
+#### <span id="Achievements"></span>_Achievements:_
 **Project:** "Alpha-Insurance" (Native Mobile Application)
 - Developed and implemented a full cycle of test documentation including Test Plans, Test Reports, RC Reports, Checklists, Bug Reports, and Summary Tables. 
 - This helped standardize QA processes, improve transparency, and enhance communication between QA, development, and analytics teams.
@@ -46,7 +46,7 @@
 - Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.
 
 ---
-#### <span id="Responsibilities"></span>Responsibilities:
+#### <span id="Responsibilities"></span>_Responsibilities:_
 - Organized and conducted weekly retrospective meetings within a 15-person cross-functional team (12 developers, QA engineer, product manager, company founder) to analyze processes, identify issues, implement improvements, ensure clarity on deadlines, and track progress of current tasks.
 - Planned and monitored testing stages, defined start and end points of the QA cycle, and coordinated schedules with project stakeholders.
 - Selected and applied appropriate testing methodologies and tools to ensure high product quality.
@@ -77,7 +77,7 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4285F4)
 
 ---
-#### <span id="Personal Qualities"></span>PERSONAL QUALITIES:
+#### <span id="Personal Qualities"></span>_Personal Qualities:_
 - I genuinely enjoy working in field QA, as it allows me to contribute to product quality and improve the user experience.
 - I strive to do my job well and am not afraid to take on new and challenging tasks, considering this a growth opportunity.
 - There is a strong desire to continue developing my skills in testing.
@@ -98,13 +98,13 @@
 - Mastering the Appium tool for automation testing of mobile applications.
 
 ---
-##### <span id="Certificates"></span>_Certificates:_
+#### <span id="Certificates"></span>_Certificates:_
 - [Skyeng/Skypro](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [Software Testing: Postman](https://stepik.org/cert/1893919)
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 
 ---
-##### <span id="You can contact me"></span>_You can contact me:_
+#### <span id="You can contact me"></span>_You can contact me:_
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
 [![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 

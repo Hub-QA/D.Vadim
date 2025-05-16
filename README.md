@@ -93,8 +93,7 @@
 
 ---
 #### <span id="Learning"></span>_Learning:_
-- Studying the basics of Python programming language.
-- Mastering the Appium tool for automation testing of mobile applications.
+- Actively learning Python - I plan to dive into test automation. 
 
 ---
 #### <span id="Certificates"></span>_Certificates:_

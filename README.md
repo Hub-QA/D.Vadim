@@ -17,7 +17,7 @@
 #### <span id="Professional skills"></span>_Professional skills:_
 - Strong skills in both team collaboration and individual work.
 - Extensive knowledge of testing theory, including various types of testing, test development methods, and testing methodologies.
-- Ability to create test documentation for verifying flow, user story:
+- Ability to create test documentation for verifying flow, user story 👀
 
   [📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) | [📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing) | [✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing) | [📋 Check-list](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true) | [🐞 Bug-Report](https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing) | [📋 Summary-Table (Release Candidate)](https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing)
   

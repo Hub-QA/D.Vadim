@@ -96,15 +96,12 @@
 - Outside of work, I am fond of sports, especially running, which helps me stay energetic and focused.
 
 ---
-#### <span id="Learning"></span>_Learning:_
-- Actively learning Python - I plan to dive into test automation. 
-
----
 #### <span id="Certificates"></span>_Certificates:_
 - [Skyeng/Skypro](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
-- [Software Testing: Postman](https://stepik.org/cert/1893919)
+- [Software Testing-Postman](https://stepik.org/cert/1893919)
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
-
+- [Python-Basics and Application](https://stepik.org/cert/2888278)
+  
 ---
 #### <span id="You can contact me"></span>_You can contact me:_
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)

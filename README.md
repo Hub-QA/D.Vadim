@@ -65,7 +65,7 @@
 ##### <span id="Communication"></span>Communication 💬 
 ![Slack](https://img.shields.io/badge/Slack-gray?style=for-the-badge&logo=slack&logoColor=4285F4) ![Google Meet](https://img.shields.io/badge/Google_Meet-gray?style=for-the-badge&logo=googlemeet&logoColor=4285F4) [![Zoom](https://img.shields.io/badge/Zoom-gray?style=for-the-badge&logo=zoom&logoColor=00A3FF)](https://zoom.us/) ![Loom](https://img.shields.io/badge/Loom-gray?style=for-the-badge&logo=loom&logoColor=F24E1E) ![Figma](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 
-##### <span id="Automation"></span>Automation Testing    
+##### <span id="Automation"></span>Automation Testing 📱    
 [![Appium](https://img.shields.io/badge/Appium-gray?style=for-the-badge&logo=appium&logoColor=4285F4)](https://appium.io/) [![Pytest](https://img.shields.io/badge/Pytest-gray?style=for-the-badge&logo=pytest&logoColor=4285F4)](https://docs.pytest.org/) [![Allure Report](https://img.shields.io/badge/Allure_Report-gray?style=for-the-badge&logo=allure&logoColor=4285F4)](https://docs.qameta.io/allure/)
 
 ##### <span id="Testing / Debugging"></span>Testing / Debugging 🔍

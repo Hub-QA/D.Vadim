@@ -45,7 +45,7 @@
 - Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.
 
 ---
-**AQA (Automation Testing):**
+**Individual Training: Test Automation (AQA)**
 - Developed a framework that allows you to check the key functions of the Google Keep mobile application, creating and deleting notes.
 - I use the following tools: | Python | Appium | Pytest | VS Code | Appium Inspector | Allure |
 - For convenience and code support, using the Page Object pattern, logging , explicit expectations, and report generation via Allure Reports.

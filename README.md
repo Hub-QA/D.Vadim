@@ -93,6 +93,7 @@
 - I genuinely enjoy working in field QA, as it allows me to contribute to product quality and improve the user experience.
 - I strive to do my job well and am not afraid to take on new and challenging tasks, considering this a growth opportunity.
 - There is a strong desire to continue developing my skills in testing.
+- am actively studying and applying skills in the field of test automation.
 - I have a high level of self-discipline and effectively plan my workday.
 - I am detail-oriented and use a proactive approach both independently and collectively to solve problems.
 - Having an analytical mindset, I love getting to the heart of the problem.

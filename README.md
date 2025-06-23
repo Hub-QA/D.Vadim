@@ -45,6 +45,13 @@
 - Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.
 
 ---
+**AQA (Automation Testing):**
+- Developed a framework that allows you to check the key functions of the Google Keep mobile application, creating and deleting notes.
+- I use the following tools: | Python | Appium | Pytest | VS Code | Appium Inspector | Allure |
+- For convenience and code support, using the Page Object pattern, logging , explicit expectations, and report generation via Allure Reports.
+- The tests are run on Android emulators using Android Studio, the entire environment is configured in VS Code.
+
+---
 #### <span id="Responsibilities"></span>_Responsibilities:_
 - Organized and conducted weekly retrospective meetings within a 15-person cross-functional team (12 developers, QA engineer, product manager, company founder) to analyze processes, identify issues, implement improvements, ensure clarity on deadlines, and track progress of current tasks.
 - Planned and monitored testing stages, defined start and end points of the QA cycle, and coordinated schedules with project stakeholders.

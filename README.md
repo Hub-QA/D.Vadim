@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+Quality+Assurance+Engineer+from+Volgograd%2CRussia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Привет!+%F0%9F%91%8B+Мой+друг+;Я+"Quality+Assurance+Engineer"+из+Волгограда;Добро+пожаловать+на+мой+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ---
 #### <span id="About me"></span> Обо мне:

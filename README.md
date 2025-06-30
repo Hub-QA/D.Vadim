@@ -71,75 +71,76 @@ check-lists, bug-reports и summary-tables, это позволило станд
 ошибки, что значительно улучшило качество мобильного приложения в сжатые сроки.
 
 ---
-**Individual Training: Test Automation (AQA)**
-- Developed a framework that allows you to check the key functions of the Google Keep mobile application, creating and deleting notes.
-- I use the following tools: | Python | Appium | Pytest | VS Code | Appium Inspector | Allure |
-- For convenience and code support, using the Page Object pattern, logging , explicit expectations, and report generation via Allure Reports.
-- The tests are run on Android emulators using Android Studio, the entire environment is configured in VS Code.
+**Автоматизация тестирования (AQA).**  
+- В рамках индивидуального обучения занимался автоматизацией тестирования мобильного приложения "Google Keep", где реализовал базовый фреймворк для проверки ключевых функций создание и удаление заметок.
+- Для реализации использовал следующие инструменты | Python | Appium | Pytest | VS Code | Appium Inspector | Allure |
 
 ---
-#### <span id="Responsibilities"></span>_Responsibilities:_
-- Organized and conducted weekly retrospective meetings within a 15-person cross-functional team (12 developers, QA engineer, product manager, company founder) to analyze processes, identify issues, implement improvements, ensure clarity on deadlines, and track progress of current tasks.
-- Planned and monitored testing stages, defined start and end points of the QA cycle, and coordinated schedules with project stakeholders.
-- Selected and applied appropriate testing methodologies and tools to ensure high product quality.
-- Ensured clear understanding of functionality and implementation timelines for the current release candidate (RC) across all project participants.
-- Collaborated with Product Manager to validate technical documentation, check its completeness, clarity, and alignment with requirements, ensuring transparency for all, development team members.
-- Analyzed Figma mockups in terms of design, functionality, and compliance with business requirements, provided feedback, suggestions for UI/UX improvements, and added comments for the team.
-- Created comprehensive test documentation (including diagrams), such as test plans, test reports, checklists, bug reports, and RC reports, with a focus on business logic and test design techniques.
-- Coordinated workflow with developers and requested stable builds for testing.
-- Conducted comprehensive manual testing: smoke, integration, black-box, ad hoc, functional, non-functional, UI/UX, regression, re-testing, and UAT.
-- Participated in defining acceptance criteria and prepared RC reports with testing analysis, metrics, and conclusions to support the decision on version release to production.
+#### <span id="Responsibilities"></span> Обязанности:
+- Организация и проведение еженедельных ретроспективных встреч в cross-функциональной команде из 15 человек (12 разработчиков, тестировщик, продукт-менеджер, основатель компании) с целью анализа процессов, выявления проблем и внедрения улучшений, четкого понимания работы по дедлайнам, выполнения текущих задача.
+- Планирование и контроль этапов тестирования, определение стартовых и завершающих точек цикла QA, согласование графиков с участниками проекта.
+- Подбор и применение методологий и инструментов тестирования, обеспечивающих высокое качество выпускаемого продукта.
+- Обеспечение четкого понимания функциональности и сроков реализации задач по текущему кандидату в релиз среди всех участников проекта.
+- Совместная работа с Product Manager по валидации технической документации, проверкаполноты, однозначности и соответствия требованиям, обеспечение ясности для всех участников
+разработки.
+- Анализ макетов Figma с точки зрения дизайна, функциональности и соответствия бизнес-требованиям, формулирование обратной связи, предложения по улучшению UI/UX, добавление комментариев для команды.
+- Создание полной документации, включая test-plans, test-report, check-lists, bug-reports, rc-report, диаграмм по тестированию, c акцентом на описание бизнес-логики и применения техник тест-дизайна.
+- Координация рабочего процесса с разработчиками, запрос стабильных сборок, для проведение тестирования.
+- Проводить комплексное мануальное тестирование smoke-testing, re-testing, integration-testing, black box-testing, ad hoс-testing, functional-testing, non-functional testing, UI/UX-testing, regression-testing, UAT-testing.
+- Участвовал в формировании критериев приемки, составлял rc-отчеты с анализом тестирования, метриками и выводами для принятия решения о публикации версии на клиентов.
 
 ---
-#### <span id="Tools"></span>_Tools:_
-##### <span id="Documentation"></span>Documentation 📂
+#### <span id="Tools"></span> Инструменты:
+##### <span id="Documentation"></span> Документация 📂
 ![Confluence](https://img.shields.io/badge/Confluence-gray?style=for-the-badge&logo=atlassian&logoColor=4285F4) ![Jira](https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=4285F4) ![Notion](https://img.shields.io/badge/Notion-gray?style=for-the-badge&logo=notion&logoColor=white) ![Qase.io](https://img.shields.io/badge/Qaseio-gray?style=for-the-badge&logo=qase&logoColor=4285F4) ![Google Docs](https://img.shields.io/badge/Google_Docs-gray?style=for-the-badge&logo=googleDocs&logoColor=4285F4) ![Sitechco](https://img.shields.io/badge/sitechcoru-gray?style=for-the-badge&logo=webflow&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-gray?style=for-the-badge&logo=miro&logoColor=FFA500) ![Markdown](https://img.shields.io/badge/Markdown-gray?style=for-the-badge&logo=markdown&logoColor=FFA500) ![Mermaid](https://img.shields.io/badge/Mermaid-gray?style=for-the-badge&logo=Mermaid&logoColor=4285F4)  
 
-##### <span id="Communication"></span>Communication 💬 
+##### <span id="Communication"></span> Коммуникация с командой 💬 
 ![Slack](https://img.shields.io/badge/Slack-gray?style=for-the-badge&logo=slack&logoColor=4285F4) ![Google Meet](https://img.shields.io/badge/Google_Meet-gray?style=for-the-badge&logo=googlemeet&logoColor=4285F4) [![Zoom](https://img.shields.io/badge/Zoom-gray?style=for-the-badge&logo=zoom&logoColor=00A3FF)](https://zoom.us/) ![Loom](https://img.shields.io/badge/Loom-gray?style=for-the-badge&logo=loom&logoColor=F24E1E) ![Figma](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 
-##### <span id="Automation"></span>A QA Testing 📱    
+##### <span id="Automation"></span> AQA 📱    
 [![Appium](https://img.shields.io/badge/Appium-gray?style=for-the-badge&logo=appium&logoColor=4285F4)](https://appium.io/) [![Pytest](https://img.shields.io/badge/Pytest-gray?style=for-the-badge&logo=pytest&logoColor=4285F4)](https://docs.pytest.org/) [![Allure Report](https://img.shields.io/badge/Allure_Report-gray?style=for-the-badge&logo=allure&logoColor=4285F4)](https://docs.qameta.io/allure/)
 
-##### <span id="Testing / Debugging"></span>Testing / Debugging 🔍
+##### <span id="Testing / Debugging"></span>Testing / Тестирование / Отладка 🔍
 ![Chrome DevTools](https://img.shields.io/badge/Devtools-gray?style=for-the-badge&logo=googlechrome&logoColor=2674f2) ![Postman](https://img.shields.io/badge/Postman-gray?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Swagger](https://img.shields.io/badge/Swagger-gray?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![BrowserStack](https://img.shields.io/badge/BrowserStack-gray?style=for-the-badge&logo=browserstack&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=xcode&logoColor=blue) ![Android Studio](https://img.shields.io/badge/AndroidStudio-gray?style=for-the-badge&logo=androidstudio&logoColor=3ad07d) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-gray?style=for-the-badge&logo=proxy&logoColor=white) [![Appium Inspector](https://img.shields.io/badge/Appium_Inspector-gray?style=for-the-badge&logo=appium&logoColor=4285F4)](https://github.com/appium/appium-inspector)
 
-##### <span id="Distribution"></span>Mobile application distribution services 📱 
+##### <span id="Distribution"></span> Сервисы дистрибьюции 📱 
 [![TestFlight](https://img.shields.io/badge/TestFlight-gray?style=for-the-badge&logo=appstore&logoColor=4285F4)](https://developer.apple.com/testflight/)
 [![Firebase App Tester](https://img.shields.io/badge/Firebase_App_Tester-gray?style=for-the-badge&logo=firebase&logoColor=FFA500)](https://testflight.google.com/)
 
-##### <span id="Code"></span>Code 💻 
+##### <span id="Code"></span> Работа с кодом 💻 
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=FFD43B) ![GitHub](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=4285F4) ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=F05032 ) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-gray?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-##### <span id="SQL Proficiency"></span>SQL Proficiency 🗄 
+##### <span id="SQL Proficiency"></span> SQL 🗄 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=4285F4)
 
 ---
-#### <span id="Personal Qualities"></span>_Personal Qualities:_
-- I genuinely enjoy working in field QA, as it allows me to contribute to product quality and improve the user experience.
-- I strive to do my job well and am not afraid to take on new and challenging tasks, considering this a growth opportunity.
-- There is a strong desire to continue developing my skills in testing.
-- Actively studying and applying skills in the field of test automation.
-- I have a high level of self-discipline and effectively plan my workday.
-- I am detail-oriented and use a proactive approach both independently and collectively to solve problems.
-- Having an analytical mindset, I love getting to the heart of the problem.
-- I love leading and participating in the workflow.
-- Good communicator and easily find common ground with colleagues.
-- Listen and take other people's opinions into account.
-- Ready to share my experience and support my colleagues.
-- Work effectively both in a team and independently.
-- Optimistic mindset and continuous development are my main drivers of progress.
-- Outside of work, I am fond of sports, especially running, which helps me stay energetic and focused.
+#### <span id="Personal Qualities"></span> Личные качества:
+- Обладаю высоким уровнем самодисциплины и эффективно планирую рабочий день.
+- Стремлюсь выполнять свою работу качественно и не боюсь браться за новые и сложные
+задачи, считаю это точкой роста.
+- Внимателен к деталям и использую проактивный подход как для самостоятельного, так и
+коллективного решения проблем.
+- Обладая аналитическим складом ума, люблю разбираться в сути проблемы.
+- Хороший коммуникатор и легко нахожу общий язык с коллегами. Активно слушаю и
+учитываю точки зрения других людей.
+- Готов делиться своим опытом и оказывать поддержку коллегам.
+- Люблю руководить и участвовать в рабочем процессе.
+- Могу эффективно работать как в команде, так и самостоятельно.
+- Развиваю свои навыки в области тестирования, изучаю автоматизации тестирования.
+- Оптимистичный настрой и постоянное развитие являются моими основными
+двигателями прогресса.
+- Вне работы я увлекаюсь спортом, особенно бегом, что помогает мне оставаться
+энергичным и сосредоточенным.
 
 ---
-#### <span id="Certificates"></span>_Certificates:_
+#### <span id="Certificates"></span> Сертификаты:
 - [Skyeng/Skypro](https://drive.google.com/file/d/1WdLFCL84Z2JboBrOJR7suj9BSjY_25CY/view?usp=sharing)
 - [Software Testing-Postman](https://stepik.org/cert/1893919)
 - [Interactive SQL Simulator](https://stepik.org/cert/1959917)
 - [Python-Basics and Application](https://stepik.org/cert/2888278)
   
 ---
-#### <span id="You can contact me"></span>_You can contact me:_
+#### <span id="You can contact me"></span> Вы можете связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-003F7F?logo=telegram&logoColor=white)](https://t.me/l_D_Vadim_l)
 [![Email](https://img.shields.io/badge/Email-003F7F?logo=e&logoColor=white )](mailto:d.vadim.jb.ofrb0x@gmail.com)
 

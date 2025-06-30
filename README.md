@@ -7,17 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hello!+%F0%9F%91%8B+My+friend+;"I%60m+a"+Quality+Assurance+Engineer+from+Volgograd%2CRussia;Welcome+to+my+GitHub+%f0%9f%98%89)](https://googledino.com/)
 
 ---
-#### <span id="About me"></span>_About me:_
-- More than 2.5 years of experience in manual testing of web and mobile applications.
-- Participation in the full QA cycle, from requirements analysis and creation of test documentation to test execution, UAT, and release.
-- Work was carried out with an understanding of SDLC and STLC, using Agile (Scrum) methodology with two-week sprints.
-- The main focus is on ensuring high product quality at all stages of development.
+#### <span id="About me"></span> Обо мне:
+- Мне искренне нравится работать в области тестирования, поскольку это позволяет вносить вклад в качество продукта и взамен получать удовлетворение от проделанной работы.
+- За время работы я участвовал в полном цикле тестирования - от анализа требований и создания документации до выполнения тестов, UAT и выпуска версий. Используя методологию Agile работая в рамках 2 недельных спринтов, я всегда стремился обеспечить высокое качество продукта на всех этапах разработки.
 
 ---
-#### <span id="Professional skills"></span>_Professional skills:_
-- Strong skills in both team collaboration and individual work.
-- Extensive knowledge of testing theory, including various types of testing, test development methods, and testing methodologies.
-- Ability to create test documentation for verifying flow, user story 👀
+#### <span id="Professional skills"></span> Профессиональные навыки:
+- Сильные навыки, как командного сотрудничества, так и индивидуальной работы.
+- Обширные знания теории тестирования, включая различные виды тестирования, методы разработки тестов и методологии тестирования.
+- Умение создавать тестовую документацию 👀 ⬇️
 
   [📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) | [📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing) | [✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing) | [📋 Check-list 📱](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true) | [📋 Check-list 👨🏻‍💻](https://docs.google.com/spreadsheets/d/12JLBlhNU3BR946wd-KP95WfwfU5OKFaEwNzPKALr4tY/edit?usp=sharing) | [🐞 Bug-Report](https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing) | [📋 RC Summary-Table 🚀](https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing)
   

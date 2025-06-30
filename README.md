@@ -19,28 +19,56 @@
 
   [📝 Test-Plan](https://docs.google.com/spreadsheets/d/1NTjW0Sl9ukbcvvZhdIE2p_zNyJ42c0YtwewWOnAugTg/edit?usp=sharing) | [📊 Test-Report](https://docs.google.com/spreadsheets/d/1BfuH5Yn_lFP2GPBNRXsB8DovzXxzsRP9lFgRBx2U6oY/edit?usp=sharing) | [✅ RC-Report](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing) | [📋 Check-list mobile 📱](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true) | [📋 Check-list web 👨🏻‍💻](https://docs.google.com/spreadsheets/d/12JLBlhNU3BR946wd-KP95WfwfU5OKFaEwNzPKALr4tY/edit?usp=sharing) | [🐞 Bug-Report](https://drive.google.com/file/d/11yxUoB3QVaryoIXqbn3mUUQq5A_Z-bAA/view?usp=sharing) | [📋 RC Summary-Table 🚀](https://docs.google.com/spreadsheets/d/1KpfjQEdiuojSqdtiT28XLnN7ZJCRWNx-BAopNFyXAb0/edit?usp=sharing)
   
-- Practical experience:
+- Практический опыт ручного тестирования:
   
   ![Documentation Testing](https://img.shields.io/badge/documentation-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Test Design Techniques](https://img.shields.io/badge/design_techniques-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Manual](https://img.shields.io/badge/manual-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Smoke](https://img.shields.io/badge/Smoke-Testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Integration](https://img.shields.io/badge/integration-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Black-box](https://img.shields.io/badge/black_box-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Functional](https://img.shields.io/badge/functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Non-functional](https://img.shields.io/badge/non_functional-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Ad hoс](https://img.shields.io/badge/ad_hoс-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI/UX-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Re-testing](https://img.shields.io/badge/Re-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![Regression](https://img.shields.io/badge/Regression-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![UAT](https://img.shields.io/badge/UAT-testing-4682B4?style=for-the-badge&logo=testcafe&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-testing-4682B4?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-testing-4682B4?style=for-the-badge&logo=android&logoColor=white) ![Web](https://img.shields.io/badge/Web-Testing-2980B9?style=for-the-badge&logo=webflow&logoColor=white)
-- Solid understanding of TCP/IP protocol stack and OSI model layers.
-- Familiar with client-server architecture and HTTP/S request/response mechanics.
+- Понимание принципов работы стека протоколов TCP/IP, включая уровни модели OSI.
+- Понимание клиент-серверной архитектуры и HTTP/S запросы / ответы.
+- Опыт работы с Chrome DevTools / Network / Console.
+- Опыт работы с Figma / Miro / Mermaid.
+- Опыт работы с API / Swagger / Postman.
+- Опыт работы с Android Studio / ADB / Logcat, а также с XCode / Console Logs уверенно
+использую в работе реальные устройства на ОС / iOS и Android для тестирования и отладки
+приложений. При необходимости использую эмуляторы и симуляторы.
+- Опыт работы с BrowserStack.
+- Опыт работы Charles Proxy / Breakpoint / Rewrite / Map remote.
+- Опыт работы с Network Link Conditioner.
+- Опыт работы с Git / GitHub.
+- Знание SQL и опыт работы с СУБД / pgAdmin.
+- Опыт автоматизации тестирования мобильных приложений.
+- Базовые знания языка программирования / Python.
+- Опыт работы c Appium server / Appium Inspector.
+- Опыт работы c фреймворком / Pytes.
+- Опыт работы с VS Code.
+- Опыт работы с отчетами Allure.
 
 ---
-#### <span id="Achievements"></span>_Achievements:_
-**Project:** "Alpha-Insurance" (Native Mobile Application)
-- Developed and implemented a full cycle of test documentation including Test Plans, Test Reports, RC Reports, Checklists, Bug Reports, and Summary Tables, this helped standardize QA processes, improve transparency, and enhance communication between QA, development, and analytics teams.
-- Applied a systematic testing approach that reduced production incidents by 70% , ensuring high product reliability and quality.
-- Participated in the refactoring and implementation of a new design system — BD-UI.
-- Maintained a high level of product quality through regular and deep testing, as well as accurate documentation of identified defects.
-- Worked as the only QA Engineer on the project.
-- Took full responsibility for product quality, organizing and conducting the entire testing lifecycle from planning to release.
-- Thanks to close collaboration with the development team, most bugs were fixed promptly, contributing to the release of stable application versions.
-- Monitored product quality post-release by collecting and analyzing user and business feedback for further product optimization.
+#### <span id="Achievements"></span> Достижения:
+**Project:** "Alpha-Insurance" / Native Mobile Application.**
+- Разработал и внедрил полный цикл тестовой документации: test-plans, test-reports, rc reports,
+check-lists, bug-reports и summary-tables, это позволило стандартизировать QA-процессы,
+повысить прозрачность и улучшить коммуникацию между QA, разработкой и аналитикой.
+- Применил системный подход к тестированию, что привело к снижению количества
+инцидентов в Production на 70%, обеспечивая высокую надежность и качество продукта.
+- Участвовал в рефакторинге и внедрении новой дизайн-системы BD-UI.
+- Обеспечивал высокий уровень качества продукта благодаря регулярному и глубокому
+тестированию, а также точному документированию найденных дефектов.
+- Работал единственным QA-инженером на проекте.
+- Взял на себя полную ответственность за качество продукта, организовывал и проводил
+полный цикл тестирования, от планирования до релиза.
+- Благодаря тесному взаимодействию с командой разработки, большинство багов было
+оперативно исправлено, что способствовало выпуску стабильных версий приложения.
+- Участвовал в мониторинге качества продукта после выпуска на клиентов, собирая и
+анализируя обратную связь от пользователей и бизнеса для дальнейшей оптимизации
+продукта.
 
-**Project:** "Skladno" - Smart storerooms (Native Mobile Application)
-- Conducted comprehensive testing focusing on performance and usability issues.
-- Acted as a mentor to a junior QA specialist, helping improve documentation quality and optimize testing processes.
-- Identified and assisted in fixing critical bugs during individual and team work, significantly improving the quality of the mobile app within tight deadlines.
+**Project: "Складно" - Умные кладовки / Нативное мобильное приложение.**
+- Провёл комплексное тестирование, сосредоточившись на выявлении проблем с
+производительностью и удобством использования.
+- Выступал ментором для тестировщика, помогая улучшить качество документации и
+оптимизировать процессы тестирования.
+- В ходе индивидуальной и командной работы выявил и помог исправить серьезные
+ошибки, что значительно улучшило качество мобильного приложения в сжатые сроки.
 
 ---
 **Individual Training: Test Automation (AQA)**

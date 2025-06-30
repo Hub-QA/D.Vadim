@@ -44,7 +44,7 @@
 
 ---
 #### <span id="Achievements"></span> Достижения:
-**Project:** "Alpha-Insurance" / Native Mobile Application.**
+**Project: "Alpha-Insurance" / Native Mobile Application.**
 - Разработал и внедрил полный цикл тестовой документации: test-plans, test-reports, rc reports,
 check-lists, bug-reports и summary-tables, это позволило стандартизировать QA-процессы,
 повысить прозрачность и улучшить коммуникацию между QA, разработкой и аналитикой.
